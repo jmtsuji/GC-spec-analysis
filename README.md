@@ -1,5 +1,5 @@
 # GC-spec-analysis
-A collection of scripts for working with GC/spectrophotometer data. Includes converting from standard curves, and so on.
+A collection of scripts for working with GC/spectrophotometer data. Includes converting from standard curves, and so on. **These scripts are in development and are fairly specific to in-lab experiments; use at your own risk.**
 
 ## GC_data_analysis_vs2.R
 A script for working with GC data. Run in a console (e.g., RStudio) and modify the variables in the first few lines of the code.
