@@ -2,7 +2,7 @@
 # Created Aug 15, 2017 by Jackson Tsuji (Neufeld Lab PhD student)
 # Description: Imports and processes GC data. Now handles multiple days of data
 # Version 2.0.0
-# Last updated: Aug 15, 2017
+# Last updated: Aug 16, 2017
 
 # Notes:
 #   - Imported data must match template. Script can print template on request - set print_data_template to TRUE.
